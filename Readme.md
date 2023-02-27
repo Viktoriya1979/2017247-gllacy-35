@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Виктория Сидельникова](https://up.htmlacademy.ru/htmlcss/35/user/2017247).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
